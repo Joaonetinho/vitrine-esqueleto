@@ -16,3 +16,4 @@
         $valor = str_replace(".","", $valor);
         return str_replace(",",".", $valor);
     }
+    
