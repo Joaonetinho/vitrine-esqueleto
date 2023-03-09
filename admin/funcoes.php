@@ -13,4 +13,6 @@
         </script>
         <?php
         exit;
-    } //fim da função
+    } 
+    //fim da função
+    ?>
